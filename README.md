@@ -27,12 +27,12 @@ Create a quality cybersecurity incident report to analyze a recent DDoS attack o
 ### Skills Learned
 
 - Analyzing and documenting cybersecurity incidents
-- Implementing the NIST Cybersecurity Framework
+- Implementing the NIST CSF
 - Developing and applying security controls and incident response plans
 
 ### Tools Used
 
-- NIST Cybersecurity Framework (CSF)
+- NIST CSF
 - Word processing software for document creation
 
 ## Steps
@@ -47,6 +47,6 @@ I analyzed the situation using the NIST CSF to do the following:
 4. **Respond** effectively to contain and neutralize the incident
 5. **Recover** systems to ensure continuity and resilience.
 
-Finalized document:
-[Incident Report Analysis](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/16301772/Incident.Report.Analysis.pdf)
+> [!IMPORTANT]
+> [Incident Report Analysis](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/16301772/Incident.Report.Analysis.pdf)
 
