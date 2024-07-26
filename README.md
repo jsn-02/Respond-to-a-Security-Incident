@@ -32,8 +32,8 @@ Create a quality cybersecurity incident report to analyze a recent DDoS attack o
 
 ### Tools Used
 
-- NIST Cybersecurity Framework (CSF)
-- Word processing software for document creation
+<img src="https://img.shields.io/badge/-NIST%20Cybersecurity%20Framework-003A55?&style=for-the-badge&logo=nist&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Docs-4285F4?&style=for-the-badge&logo=google-docs&logoColor=white" />
 
 ## Steps
 
